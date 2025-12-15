@@ -27,6 +27,7 @@ Este proyecto despliega en local una aplicación web de Gestión de Usuarios sob
 - VirtualBox
 - Vagrant
 - Box: `debian/bookworm64`
+- Iniciar primero el serverNFS
 
 ---
 
