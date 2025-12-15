@@ -40,6 +40,10 @@ Este proyecto despliega en local una aplicación web de Gestión de Usuarios sob
    - `nfs_php.sh`
    - `haproxy_db.sh`
    - `mariadb.sh`
-4. Arrancar las máquinas sin aprovisionar:
+4. Arrancar las máquinas:
    ```bash
    vagrant up
+
+5. En caso de que no funcione el aprovisionamiento:
+      ```bash
+   vagrant provision
