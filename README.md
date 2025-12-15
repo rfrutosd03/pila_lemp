@@ -1,7 +1,8 @@
 # Infraestructura LEMP en Alta Disponibilidad con Vagrant + VirtualBox
 
 Este proyecto despliega en local una aplicación web de Gestión de Usuarios sobre una pila LEMP (Linux, Nginx, MariaDB, PHP-FPM) organizada en 4 capas, utilizando Vagrant (box debian/bookworm64) y VirtualBox.
-
+Podras comprobar el video de funcionamiento aqui
+https://youtu.be/roBqH41LwLc
 ---
 
 ## Arquitectura
